@@ -21,7 +21,7 @@ dari masalah diatas , maka akan diuji analisis menggunakan 2 cara analisis.
 
 2. **Analisis segmentasi perusahaan.** identifikasi performansi wilayah atau subwilayah , dan analisis segmentasi pembelian produk di berbagai industri.
 
-3. # Goal / Tujuan
+# Goal / Tujuan
 
 Tujuan dari analisis ini untuk mengetahui faktor apa saja yang berkontribusi terhadap profit yang negatif sehingga mempengaruhi trend dari penjualan produk AWS. faktor ini akan dilakukan dengan 2 cara analisis yang diharapkan akan membuat Perusahaan Amazon khususnya di AWS agar bisa mendapatkan masukan / insight sehingga dari sisi perusahaan bisa mengambil keputusan yang tepat agar dapat meningkatkan kembali penjualan dan profitabilitasnya dan pada ujungnya diharapkan tetap mempertahankan posisinya sebagai leader di dunia web service. 
 
