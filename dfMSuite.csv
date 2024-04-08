@@ -1,0 +1,229 @@
+Order ID,Order Date,Contact Name,Country,City,Region,Subregion,Customer,Customer ID,Industry,Segment,Product,License,Sales,Quantity,Discount,Profit,Order Month,Order Year
+EMEA-2022-152156,2022-11-09,Nathan Bell,Ireland,Dublin,EMEA,UKIR,Chevron,1017,Energy,SMB,Marketing Suite,16GRM07R1K,261.96,2,0.0,41.9136,2022-11,2022
+EMEA-2021-150630,2021-09-17,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,Marketing Suite,F8G07TWQ17,3083.43,7,0.5,-1665.0522,2021-09,2021
+APJ-2021-117415,2021-12-27,Jasmine Metcalfe,Japan,Tokyo,APJ,JAPN,Banco Santander,1101,Finance,Enterprise,Marketing Suite,FBXEM82WEZ,532.3992,3,0.32,-46.9764,2021-12,2021
+EMEA-2021-102281,2021-10-12,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Marketing Suite,7LL8W4OBLM,899.136,4,0.2,112.392,2021-10,2021
+EMEA-2021-102281,2021-10-12,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Marketing Suite,L0NREOWV2Y,626.352,3,0.2,46.9764,2021-10,2021
+AMER-2021-146262,2021-01-02,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite,MU9RVQO7BD,452.45,5,0.5,-244.323,2021-01,2021
+AMER-2022-110772,2022-11-21,Thomas Roberts,Mexico,Mexico City,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Marketing Suite,C8CIU7IHT6,86.97,3,0.5,-48.7032,2022-11,2022
+EMEA-2022-138520,2022-04-09,Pippa Morrison,United Kingdom,London,EMEA,UKIR,Sysco,1084,Consumer Products,SMB,Marketing Suite,YBW58615X8,388.704,6,0.2,-4.8588,2022-04,2022
+EMEA-2022-155516,2022-10-22,Julian Nash,Saudi Arabia,Dhahran,EMEA,MEA,Amazon,1004,Tech,Strategic,Marketing Suite,PLXKKAFI1X,1043.92,4,0.0,271.4192,2022-10,2022
+APJ-2022-108987,2022-09-09,Richard Lyman,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Marketing Suite,63SAEQQORW,2396.2656,4,0.32,-317.1528,2022-09,2022
+AMER-2023-117457,2023-12-09,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Marketing Suite,N9MQAHBVAT,1336.829,13,0.15,31.4548,2023-12,2023
+APJ-2023-154907,2023-04-01,Joe Ross,Japan,Fukuoka,APJ,JAPN,Wells Fargo,1099,Finance,Strategic,Marketing Suite,MEO9WRJISD,205.3328,2,0.32,-36.2352,2023-04,2023
+AMER-2020-144666,2020-11-09,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite,053FQGSSSZ,222.666,2,0.15,10.4784,2020-11,2020
+AMER-2023-140963,2023-06-11,Alison Fisher,United States,New York City,AMER,NAMER,Sony,1028,Tech,Enterprise,Marketing Suite,G19PT7HYX0,514.165,5,0.15,-30.245,2023-06,2023
+EMEA-2023-161480,2023-12-26,Kimberly Oliver,United Kingdom,London,EMEA,UKIR,Microsoft,1066,Tech,SMB,Marketing Suite,8HY9YST93B,191.984,2,0.2,4.7996,2023-12,2023
+EMEA-2020-112158,2020-12-02,Kevin Welch,United Kingdom,London,EMEA,UKIR,McKesson,1063,Consumer Products,SMB,Marketing Suite,TPRZQ3BXT4,883.92,5,0.2,-110.49,2020-12,2020
+AMER-2023-131954,2023-01-22,Sam Carr,Canada,Toronto,AMER,NAMER,Walmart,1096,Retail,Enterprise,Marketing Suite,ZH20C5AZ4D,84.98,1,0.0,18.6956,2023-01,2023
+AMER-2021-157014,2021-10-03,Isaac Robertson,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,Marketing Suite,CJZB9DI3A5,35.49,1,0.5,-15.6156,2021-10,2021
+EMEA-2021-100454,2021-11-20,Peter Ellison,United Kingdom,London,EMEA,UKIR,Volkswagen,1046,Manufacturing,Strategic,Marketing Suite,3299UD2AW4,186.048,4,0.2,9.3024,2021-11,2021
+EMEA-2023-143259,2023-12-31,Katherine Dowd,United Kingdom,London,EMEA,UKIR,Morgan Stanley,1068,Finance,SMB,Marketing Suite,R82G8HW9LE,323.136,4,0.2,12.1176,2023-12,2023
+APJ-2023-136539,2023-12-29,Gavin White,Japan,Sapporo,APJ,JAPN,Mondelez International,1067,Consumer Products,SMB,Marketing Suite,GLTHXGPILZ,78.8528,2,0.32,-11.596,2023-12,2023
+EMEA-2022-102981,2022-09-07,Max McGrath,United Kingdom,London,EMEA,UKIR,Mitsubishi,1050,Manufacturing,SMB,Marketing Suite,CDVFMCXW3S,722.352,3,0.2,90.294,2022-09,2022
+AMER-2023-140585,2023-12-19,Faith Jones,United States,Louisville,AMER,NAMER,Sony,1028,Tech,SMB,Marketing Suite,XB6V2VJ0F1,119.833,1,0.15,-12.6882,2023-12,2023
+EMEA-2022-137050,2022-07-15,Bella Wallace,United Kingdom,London,EMEA,UKIR,Pemex,1058,Energy,Strategic,Marketing Suite,RDCIEF44LZ,579.136,4,0.2,21.7176,2022-07,2022
+AMER-2020-168494,2020-12-12,Cameron King,United States,Philadelphia,AMER,NAMER,HSBC Holdings,1070,Finance,SMB,Marketing Suite,4W3P5G3XWW,254.9745,3,0.15,11.9988,2020-12,2020
+EMEA-2021-115847,2021-09-19,Liam Russell,Spain,Madrid,EMEA,EU-WEST,Boeing,1014,Manufacturing,Enterprise,Marketing Suite,L6SAZ67ME4,61.96,2,0.0,4.3372,2021-09,2021
+EMEA-2021-103471,2021-12-24,Melanie Dowd,Russia,St Petersburg,EMEA,EU-EAST,Nissan Motor,1098,Transportation,SMB,Marketing Suite,ZEUY7UCLF6,590.058,7,0.7,-786.744,2021-12,2021
+EMEA-2022-108504,2022-02-05,Tracey Dickens,Finland,Tampere,EMEA,NOR,Mitsubishi,1050,Manufacturing,Enterprise,Marketing Suite,DWNXZPOPGC,239.98,2,0.0,52.7956,2022-02,2022
+AMER-2023-124086,2023-02-11,Alexandra Sharp,United States,Columbia,AMER,NAMER,Caterpillar,1016,Manufacturing,Enterprise,Marketing Suite,NB97UPK3N9,203.983,2,0.15,16.7986,2023-02,2023
+APJ-2023-121888,2023-09-16,Emma Thomson,South Korea,Seoul,APJ,APAC,Oracle,1072,Tech,SMB,Marketing Suite,8N2IFD9U9R,782.94,3,0.0,203.5644,2023-09,2023
+EMEA-2020-150245,2020-12-31,Melanie Chapman,United Kingdom,Bristol,EMEA,UKIR,Wells Fargo,1099,Finance,Strategic,Marketing Suite,ICZGINXPX1,1573.488,7,0.2,196.686,2020-12,2020
+APJ-2021-118423,2021-03-24,Rose Dyer,Australia,Adelaide,APJ,ANZ,Apple,1008,Tech,Enterprise,Marketing Suite,F5JI9VWI0B,359.058,3,0.3,-35.9058,2021-03,2021
+AMER-2020-156349,2020-05-26,Michael Forsyth,United States,New York City,AMER,NAMER,Siemens,1043,Manufacturing,Strategic,Marketing Suite,UCNJG9CNBN,290.666,2,0.15,27.3568,2020-05,2020
+AMER-2023-104003,2023-10-08,Andrew Reid,United States,Los Angeles,AMER,NAMER,Verizon Communications,1094,Communications,SMB,Marketing Suite,6WC1AQ5R4K,307.666,2,0.15,-14.4784,2023-10,2023
+APJ-2021-123218,2021-12-20,Jan Watson,Australia,Sydney,APJ,ANZ,Valero Energy,1093,Energy,SMB,Marketing Suite,8LESWJN7KG,359.058,3,0.3,-71.8116,2021-12,2021
+AMER-2021-130785,2021-09-05,Sue Anderson,United States,Seattle,AMER,NAMER,BMW,1039,Manufacturing,SMB,Marketing Suite,YPG6SE2N8F,411.332,4,0.15,-4.8392,2021-09,2021
+AMER-2021-130785,2021-09-05,Sue Anderson,United States,Seattle,AMER,NAMER,BMW,1039,Manufacturing,SMB,Marketing Suite,4NPV9NZ0JE,293.199,3,0.15,-20.6964,2021-09,2021
+EMEA-2023-121251,2023-03-27,Evan Paige,United Kingdom,London,EMEA,UKIR,Honda Motor,1045,Manufacturing,SMB,Marketing Suite,IYFVVR2XFC,257.568,2,0.2,-28.9764,2023-03,2023
+EMEA-2022-112977,2022-03-11,Blake Fraser,United Kingdom,Leeds,EMEA,UKIR,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite,DXGZD9I750,176.784,1,0.2,-22.098,2022-03,2022
+EMEA-2023-161200,2023-08-07,Irene Walsh,Czech Republic,Brno,EMEA,EU-EAST,Wells Fargo,1099,Finance,SMB,Marketing Suite,82QP1HRPKN,145.74,3,0.0,23.3184,2023-08,2023
+APJ-2023-165386,2023-08-04,Emily Campbell,Australia,Sydney,APJ,ANZ,Allianz,1080,Finance,SMB,Marketing Suite,IM3CPTFE4T,183.372,2,0.3,-36.6744,2023-08,2023
+AMER-2021-114237,2021-03-13,Theresa Henderson,Canada,Toronto,AMER,NAMER,Safeway,1079,Retail,SMB,Marketing Suite,H852NX0WZI,141.96,2,0.0,39.7488,2021-03,2021
+AMER-2021-164882,2021-10-31,Dylan Dowd,United States,Providence,AMER,NAMER,Comcast,1022,Communications,SMB,Marketing Suite,5T9WK02HW6,425.833,1,0.15,20.0392,2021-10,2021
+AMER-2023-167381,2023-09-23,Leah MacLeod,Brazil,Manaus,AMER,LATAM,Lukoil,1044,Energy,Enterprise,Marketing Suite,0GBEPYY7VU,241.96,2,0.0,41.1332,2023-09,2023
+EMEA-2022-106383,2022-03-20,Warren Butler,Russia,Moscow,EMEA,EU-EAST,Aviva,1006,Finance,SMB,Marketing Suite,O5N0F3UKF5,72.294,1,0.7,-98.8018,2022-03,2022
+EMEA-2023-122994,2023-02-07,Donna Hemmings,Spain,Madrid,EMEA,EU-WEST,Engie,1062,Energy,SMB,Marketing Suite,L38OXHJIT5,359.97,3,0.0,79.1934,2023-02,2023
+AMER-2023-142622,2023-10-31,Kimberly Harris,Canada,Toronto,AMER,NAMER,Intel,1051,Tech,SMB,Marketing Suite,118C3TCGW0,199.98,2,0.0,37.9962,2023-10,2023
+APJ-2022-115574,2022-12-24,Trevor Clark,Australia,Sydney,APJ,ANZ,Allianz,1080,Finance,Strategic,Marketing Suite,AY8QX8DP17,141.372,2,0.3,-14.1372,2022-12,2022
+EMEA-2021-105102,2021-09-15,James Terry,United Kingdom,London,EMEA,UKIR,BNP Paribas,1065,Finance,Strategic,Marketing Suite,8NSEB440F2,46.384,1,0.2,1.1596,2021-09,2021
+AMER-2021-111514,2021-08-31,Emma Stewart,United States,Los Angeles,AMER,NAMER,Marathon Petroleum,1061,Energy,Strategic,Marketing Suite,TY2GN8WNGO,1552.831,7,0.15,200.9546,2021-08,2021
+APJ-2022-110170,2022-09-28,Paul Martin,Japan,Kanagawa,APJ,JAPN,BNP Paribas,1065,Finance,Strategic,Marketing Suite,W6XY4SSX27,956.6648,7,0.32,-225.0976,2022-09,2022
+APJ-2021-146087,2021-07-06,Tracey Dickens,South Korea,Incheon,APJ,APAC,Mitsubishi,1050,Manufacturing,Enterprise,Marketing Suite,EWIYYPYTEQ,301.96,2,0.0,60.392,2021-07,2021
+EMEA-2022-135923,2022-01-22,Felicity Peake,Sweden,Gothenburg,EMEA,NOR,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite,7HA4SNQX3G,451.136,4,0.2,-67.6704,2022-01,2022
+APJ-2022-114174,2022-09-09,Lisa Peake,South Korea,Seoul,APJ,APAC,CVS Health,1026,Retail,Enterprise,Marketing Suite,EI8UXFOQ23,173.94,3,0.0,13.9152,2022-09,2022
+AMER-2023-108070,2023-04-17,Anne Lee,United States,Chicago,AMER,NAMER,Oracle,1072,Tech,SMB,Marketing Suite,3UT6C0CYT2,102.833,1,0.15,-6.049,2023-04,2023
+EMEA-2021-147788,2021-05-31,Ava Oliver,Turkey,Istanbul,EMEA,MEA,Sysco,1084,Consumer Products,SMB,Marketing Suite,U6KDDLDJ7T,1406.86,7,0.0,140.686,2021-05,2021
+EMEA-2022-165848,2022-06-05,Frank Metcalfe,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,SMB,Marketing Suite,NPPU3C5GN2,136.784,1,0.2,5.1294,2022-06,2022
+AMER-2022-146794,2022-09-27,Harry Murray,United States,Long Beach,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,Strategic,Marketing Suite,EFKDE3TWG2,424.9575,5,0.15,19.998,2022-09,2022
+EMEA-2023-112515,2023-09-18,Joseph Forsyth,Turkey,Ankara,EMEA,MEA,Trafigura Group,1100,Finance,Strategic,Marketing Suite,DEOYJT2GHS,1292.94,3,0.0,77.5764,2023-09,2023
+APJ-2021-115798,2021-11-13,Trevor Langdon,Philippines,Manila,APJ,APAC,Target,1085,Retail,SMB,Marketing Suite,FKRTTWY3BV,299.97,3,0.0,56.9943,2021-11,2021
+AMER-2021-138534,2021-07-17,Liam Murray,United States,Indianapolis,AMER,NAMER,American Express,1005,Finance,SMB,Marketing Suite,CUS0OFAKS4,195.466,2,0.15,-13.7976,2021-07,2021
+AMER-2020-154599,2020-04-12,Rachel Bond,United States,Lakewood,AMER,NAMER,Mondelez International,1067,Consumer Products,Strategic,Marketing Suite,B3G7JK2WCN,308.499,3,0.15,-18.147,2020-04,2020
+AMER-2021-148635,2021-07-25,Olivia Hamilton,Canada,Toronto,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,SMB,Marketing Suite,ASVSXG74IY,704.9,5,0.0,56.392,2021-07,2021
+APJ-2020-112914,2020-09-25,Alison Fisher,Japan,Tokyo,APJ,JAPN,Sony,1028,Tech,Enterprise,Marketing Suite,JX7AONAS9H,300.5328,2,0.32,-97.2312,2020-09,2020
+EMEA-2023-138975,2023-05-20,Benjamin Hughes,Finland,Helsinki,EMEA,NOR,Apple,1008,Tech,SMB,Marketing Suite,KGK6VFWOK7,1628.82,9,0.0,374.6286,2023-05,2023
+APJ-2023-124674,2023-11-18,Joanne Davies,Japan,Osaka,APJ,JAPN,Tyson Foods,1088,Consumer Products,SMB,Marketing Suite,JQBH1P1VDY,327.7328,2,0.32,-14.4588,2023-11,2023
+AMER-2021-168480,2021-09-21,Ella King,Brazil,Brasília,AMER,LATAM,Aetna,1002,Healthcare,Strategic,Marketing Suite,5LNHVC05X7,194.32,4,0.0,31.0912,2021-09,2021
+AMER-2021-126137,2021-10-03,Michelle McLean,United States,New York City,AMER,NAMER,Johnson & Johnson,1055,Healthcare,SMB,Marketing Suite,954D46KTEA,120.666,2,0.15,18.4548,2021-10,2021
+APJ-2023-135692,2023-04-28,Luke Mills,Japan,Saitama,APJ,JAPN,Prudential Financial,1078,Finance,Strategic,Marketing Suite,LTTTK2VI06,220.2656,4,0.32,-42.1096,2023-04,2023
+EMEA-2023-131233,2023-04-15,Jacob Vaughan,United Kingdom,London,EMEA,UKIR,BNP Paribas,1065,Finance,SMB,Marketing Suite,7G2NJBK4BE,242.352,3,0.2,9.0882,2023-04,2023
+EMEA-2023-119578,2023-12-23,Jessica Hughes,Norway,Oslo,EMEA,NOR,UnitedHealth Group,1092,Healthcare,Strategic,Marketing Suite,AN3I30FDQD,220.98,1,0.0,50.8254,2023-12,2023
+EMEA-2023-132059,2023-09-24,Stephen Dyer,Russia,Nizhny Novogorod,EMEA,EU-EAST,AT&T,1010,Communications,SMB,Marketing Suite,14FCKG6XFM,180.588,2,0.7,-240.784,2023-09,2023
+AMER-2020-134733,2020-09-23,Peter Ellison,United States,Seattle,AMER,NAMER,Volkswagen,1046,Manufacturing,Strategic,Marketing Suite,SIQWP5G5ZZ,435.999,3,0.15,20.5176,2020-09,2020
+AMER-2020-115161,2020-02-01,Jan White,United States,Yonkers,AMER,NAMER,Lukoil,1044,Energy,SMB,Marketing Suite,G146C50CFX,290.666,2,0.15,3.4196,2020-02,2020
+EMEA-2021-115511,2021-11-21,Sarah Alsop,Israel,Tel Aviv,EMEA,EU-EAST,Sysco,1084,Consumer Products,SMB,Marketing Suite,BOX29ME40V,141.96,2,0.0,41.1684,2021-11,2021
+APJ-2021-147242,2021-09-10,Maria James,South Korea,Gwangju,APJ,APAC,Allianz,1080,Finance,Strategic,Marketing Suite,4L4ZKVZU6U,361.96,2,0.0,83.2508,2021-09,2021
+APJ-2020-166863,2020-06-20,Grace Bell,Japan,Ibaraki,APJ,JAPN,ConocoPhillips,1024,Energy,SMB,Marketing Suite,HS8B8RNDQF,193.0656,4,0.32,-19.8744,2020-06,2020
+APJ-2023-140326,2023-09-05,Harry McGrath,Australia,Sydney,APJ,ANZ,Valero Energy,1093,Energy,Strategic,Marketing Suite,M8BDY7YI2K,825.174,9,0.3,-117.882,2023-09,2023
+EMEA-2022-156251,2022-08-14,Victor Walsh,Italy,Brescia,EMEA,EU,Allianz,1080,Finance,Strategic,Marketing Suite,6HNB9TPL4N,241.96,2,0.0,24.196,2022-08,2022
+EMEA-2023-141873,2023-10-10,Michael Nolan,United Kingdom,London,EMEA,UKIR,Apple,1008,Tech,SMB,Marketing Suite,KSUIPHFJH8,314.352,3,0.2,-15.7176,2023-10,2023
+AMER-2020-101931,2020-10-28,Olivia Graham,United States,New York City,AMER,NAMER,Phillips 66,1056,Energy,Strategic,Marketing Suite,79AH0U3KCB,616.998,6,0.15,-36.294,2020-10,2020
+EMEA-2021-167010,2021-04-05,Emma Baker,France,Paris,EMEA,EU-WEST,Fannie Mae,1035,Finance,Enterprise,Marketing Suite,5J5J4QAFIL,352.45,5,0.5,-211.47,2021-04,2021
+APJ-2022-162082,2022-03-15,Emily Ross,Japan,Chiba,APJ,JAPN,American Express,1005,Finance,SMB,Marketing Suite,J0BASHN2FE,241.332,5,0.32,-14.196,2022-03,2022
+AMER-2022-108735,2022-04-18,Liam Murray,United States,Burlington,AMER,NAMER,American Express,1005,Finance,SMB,Marketing Suite,6O5SI9LK00,257.499,3,0.15,24.2352,2022-04,2022
+EMEA-2021-105627,2021-03-08,Boris Vance,Italy,Turin,EMEA,EU,State Farm Insurance Cos.,1082,Finance,SMB,Marketing Suite,6N4864XMSZ,512.94,3,0.0,97.4586,2021-03,2021
+EMEA-2021-149629,2021-07-17,Irene Duncan,Germany,Hamburg,EMEA,EU-WEST,Comcast,1022,Communications,Strategic,Marketing Suite,O13ZWTQ89N,231.92,5,0.2,5.798,2021-07,2021
+AMER-2023-130764,2023-10-28,Keith Coleman,United States,Los Angeles,AMER,NAMER,Exxon Mobil,1034,Energy,Strategic,Marketing Suite,SYDZUOJHW1,556.665,5,0.15,6.549,2023-10,2023
+APJ-2022-145303,2022-08-29,Steven Rees,Japan,Aichi,APJ,JAPN,Siemens,1043,Manufacturing,SMB,Marketing Suite,XHN1L0V04M,156.3728,2,0.32,-52.8908,2022-08,2022
+EMEA-2020-156559,2020-08-19,Harry Brown,United Arab Emirates,Dubai,EMEA,MEA,Bank of America Corp.,1011,Finance,SMB,Marketing Suite,F5A7GQY71M,638.82,9,0.0,172.4814,2020-08,2020
+AMER-2021-153717,2021-12-25,Richard Carr,Brazil,São Paulo,AMER,LATAM,Petrobras,1018,Energy,Strategic,Marketing Suite,8VSDN13QFY,160.98,1,0.0,20.9274,2021-12,2021
+APJ-2022-143749,2022-12-06,Andrew Slater,South Korea,Busan,APJ,APAC,Costco Wholesale,1025,Retail,Strategic,Marketing Suite,MA6IEN52X7,81.94,1,0.0,20.485,2022-12,2022
+AMER-2023-149881,2023-04-02,Blake Hart,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,Strategic,Marketing Suite,XXN6SFA386,482.664,8,0.15,85.176,2023-04,2023
+AMER-2023-134565,2023-06-12,Dan Allan,Canada,Toronto,AMER,NAMER,Johnson & Johnson,1055,Healthcare,SMB,Marketing Suite,97QSHCN8ST,174.42,3,0.0,41.8608,2023-06,2023
+APJ-2022-131611,2022-11-06,Sean Scott,Japan,Tokyo,APJ,JAPN,Prudential Financial,1078,Finance,SMB,Marketing Suite,VW96IWIVXE,956.6648,7,0.32,-225.0976,2022-11,2022
+APJ-2021-105690,2021-11-21,Carl Avery,Japan,Shizuoka,APJ,JAPN,Siemens,1043,Manufacturing,Strategic,Marketing Suite,X6J3YFQ7A1,246.1328,2,0.32,-76.0116,2021-11,2021
+APJ-2021-122784,2021-07-20,Faith Jones,Australia,Melbourne,APJ,ANZ,Sony,1028,Tech,SMB,Marketing Suite,IR9MGHBL0K,384.944,4,0.3,-126.4816,2021-07,2021
+APJ-2021-122784,2021-07-20,Faith Jones,Australia,Melbourne,APJ,ANZ,Sony,1028,Tech,SMB,Marketing Suite,18KWZ7K5HD,913.43,5,0.3,-52.196,2021-07,2021
+EMEA-2023-111556,2023-11-21,Lillian Duncan,United Kingdom,London,EMEA,UKIR,Sprint Nextel,1081,Communications,SMB,Marketing Suite,73BFDZO7JU,183.968,2,0.2,-25.2956,2023-11,2023
+EMEA-2023-159464,2023-05-19,Andrew Smith,Finland,Vantaa,EMEA,NOR,Johnson & Johnson,1055,Healthcare,Strategic,Marketing Suite,3D4L384X7I,302.94,3,0.0,75.735,2023-05,2023
+AMER-2022-147137,2022-07-05,Jane Manning,United States,Los Angeles,AMER,NAMER,United Parcel Service,1090,Transportation,SMB,Marketing Suite,3S6NCF84YB,1279.165,5,0.15,225.735,2022-07,2022
+EMEA-2023-168641,2023-11-25,Harry McLean,United Kingdom,London,EMEA,UKIR,Allstate,1003,Finance,SMB,Marketing Suite,FGIT0ANHVZ,321.568,2,0.2,-16.0784,2023-11,2023
+AMER-2023-112753,2023-06-19,Sally Davidson,United States,New York City,AMER,NAMER,Goldman Sachs Group,1042,Finance,SMB,Marketing Suite,QJFDFTJKML,917.9235,9,0.15,75.5937,2023-06,2023
+AMER-2021-130456,2021-08-21,Joe Ross,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,Strategic,Marketing Suite,786XSP1UVS,586.398,6,0.15,34.494,2021-08,2021
+APJ-2023-133200,2023-05-07,Victoria Wilkins,Japan,Saitama,APJ,JAPN,Valero Energy,1093,Energy,Strategic,Marketing Suite,3MUGH3OROA,623.4648,7,0.32,-119.1918,2023-05,2023
+EMEA-2022-159912,2022-08-30,Robert McGrath,France,Paris,EMEA,EU-WEST,Walgreens,1095,Retail,Strategic,Marketing Suite,LO508X6U08,163.88,4,0.5,-81.94,2022-08,2022
+EMEA-2020-119151,2020-11-25,Alexandra Sharp,United Kingdom,London,EMEA,UKIR,Caterpillar,1016,Manufacturing,Enterprise,Marketing Suite,60G593UR6F,275.952,3,0.2,-37.9434,2020-11,2020
+EMEA-2021-104346,2021-12-11,Adrian Abraham,Russia,St Petersburg,EMEA,EU-EAST,Microsoft,1066,Tech,SMB,Marketing Suite,OIEJO01322,69.576,4,0.7,-143.7904,2021-12,2021
+APJ-2022-160304,2022-01-02,James Terry,China,Tianjin,APJ,APAC,BNP Paribas,1065,Finance,Strategic,Marketing Suite,4N2DJNJRYJ,173.94,3,0.0,38.2668,2022-01,2022
+AMER-2020-157147,2020-01-14,Alan White,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Marketing Suite,KTKCLYH9LD,333.999,3,0.15,3.9294,2020-01,2020
+APJ-2021-156482,2021-02-06,Joe Lee,Philippines,Manila,APJ,APAC,Allianz,1080,Finance,SMB,Marketing Suite,Z0NQRUYQ6V,283.92,4,0.0,82.3368,2021-02,2021
+AMER-2023-139647,2023-05-12,Olivia Graham,Chile,Santiago,AMER,LATAM,Phillips 66,1056,Energy,Strategic,Marketing Suite,TGVSRLD04J,209.979,7,0.7,-356.9643,2023-05,2023
+EMEA-2021-103954,2021-08-09,Boris Baker,Italy,Milan,EMEA,EU,Phillips 66,1056,Energy,Enterprise,Marketing Suite,UJI57QCB95,687.4,5,0.0,48.118,2021-08,2021
+APJ-2021-141243,2021-01-03,Nathan Hughes,Japan,Aichi,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,Marketing Suite,CUJG3OF0SQ,1352.3976,9,0.32,-437.5404,2021-01,2021
+AMER-2023-133312,2023-11-26,Wanda Gill,United States,Los Angeles,AMER,NAMER,Verizon Communications,1094,Communications,SMB,Marketing Suite,UQCXFTGRCP,359.499,3,0.15,-29.6058,2023-11,2023
+AMER-2020-111192,2020-07-30,Joanne Forsyth,Canada,Toronto,AMER,NAMER,PepsiCo,1073,Consumer Products,Strategic,Marketing Suite,DSHSMCV27D,1367.84,8,0.0,259.8896,2020-07,2020
+APJ-2023-106432,2023-10-20,Ian Ross,Japan,Kyoto,APJ,JAPN,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite,IK7S5FSPKF,328.3992,3,0.32,-91.7586,2023-10,2023
+AMER-2020-140487,2020-06-14,Joshua Vaughan,Brazil,São Paulo,AMER,LATAM,FedEx,1036,Transportation,Enterprise,Marketing Suite,M1FYMACFUP,212.94,3,0.0,57.4938,2020-06,2020
+EMEA-2022-119865,2022-06-22,Victoria Ellison,United Kingdom,London,EMEA,UKIR,Morgan Stanley,1068,Finance,SMB,Marketing Suite,10T4YOBG9K,353.568,2,0.2,-44.196,2022-06,2022
+APJ-2020-166744,2020-09-20,Gordon McLean,China,Shanghai,APJ,APAC,Verizon Communications,1094,Communications,SMB,Marketing Suite,O1M30L8DOW,362.94,3,0.0,36.294,2020-09,2020
+EMEA-2023-105991,2023-05-06,Nathan Young,Russia,St Petersburg,EMEA,EU-EAST,Citigroup,1020,Finance,SMB,Marketing Suite,70ND1H29L6,89.991,3,0.7,-152.9847,2023-05,2023
+EMEA-2023-126060,2023-04-15,Austin Newman,Sweden,Gothenburg,EMEA,NOR,Banco Santander,1101,Finance,Strategic,Marketing Suite,3PZ4ATX75Y,198.272,8,0.2,-32.2192,2023-04,2023
+APJ-2020-123183,2020-11-19,Donna Scott,Philippines,Quezon City,APJ,APAC,Royal Dutch Shell,1031,Energy,Strategic,Marketing Suite,XGKJIR88NX,1025.88,6,0.0,235.9524,2020-11,2020
+AMER-2022-117681,2022-04-10,Karen Vance,United States,New York City,AMER,NAMER,Aviva,1006,Finance,SMB,Marketing Suite,7RUUAHV3II,556.665,5,0.15,6.549,2022-04,2022
+AMER-2022-108497,2022-06-15,Lily Blake,United States,New York City,AMER,NAMER,Intel,1051,Tech,Enterprise,Marketing Suite,GJ3LAP25U8,599.165,5,0.15,35.245,2022-06,2022
+AMER-2020-146591,2020-01-20,Sonia Parsons,Chile,Puente Alto,AMER,LATAM,Pemex,1058,Energy,SMB,Marketing Suite,JSKJKZ2P6X,181.47,5,0.7,-320.597,2020-01,2020
+EMEA-2023-116946,2023-12-20,Austin Randall,Russia,Yekaterinburg,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,Marketing Suite,EVPISE991R,102.018,7,0.7,-183.6324,2023-12,2023
+AMER-2020-105249,2020-11-28,Ryan Kerr,United States,Los Angeles,AMER,NAMER,Sony,1028,Tech,Enterprise,Marketing Suite,IOQV62TO29,411.332,4,0.15,-4.8392,2020-11,2020
+APJ-2020-159618,2020-11-12,Lisa Lawrence,Japan,Tokyo,APJ,JAPN,J.P. Morgan Chase & Co.,1054,Finance,Strategic,Marketing Suite,UBQ6QZM9JC,67.9932,1,0.32,-12.9987,2020-11,2020
+AMER-2023-142342,2023-07-18,Carolyn Dowd,United States,Arlington,AMER,NAMER,Nestle,1089,Consumer Products,Strategic,Marketing Suite,7B8JT1QKUA,1194.165,5,0.15,210.735,2023-07,2023
+EMEA-2023-117324,2023-12-09,Oliver Bond,Italy,Naples,EMEA,EU,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite,GLY1CFS2U5,459.92,4,0.0,41.3928,2023-12,2023
+EMEA-2023-143574,2023-06-30,Carol James,Saudi Arabia,Jeddah,EMEA,MEA,AmerisourceBergen,1007,Healthcare,Strategic,Marketing Suite,S1RR8ZXE2L,638.82,9,0.0,185.2578,2023-06,2023
+EMEA-2023-141117,2023-10-03,Sam Lawrence,Belgium,Brussels,EMEA,EU-WEST,Cisco Systems,1019,Tech,SMB,Marketing Suite,YWAYWO6M8Q,217.764,6,0.7,-384.7164,2023-10,2023
+APJ-2023-113873,2023-11-14,Justin Walsh,Japan,Aichi,APJ,JAPN,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite,6HAL9ILZJ6,205.9992,3,0.32,-27.2646,2023-11,2023
+AMER-2023-153255,2023-09-04,Joanne Walsh,United States,Columbus,AMER,NAMER,Lowes,1060,Retail,SMB,Marketing Suite,LUSULUIOUY,239.666,2,0.15,14.098,2023-09,2023
+EMEA-2021-126977,2021-09-17,Theresa McLean,United Kingdom,London,EMEA,UKIR,Humana,1049,Healthcare,SMB,Marketing Suite,JH74ECYGQW,4228.704,6,0.2,158.5764,2021-09,2021
+EMEA-2021-126977,2021-09-17,Theresa McLean,United Kingdom,London,EMEA,UKIR,Humana,1049,Healthcare,SMB,Marketing Suite,6HUKLOBFDZ,2003.92,5,0.2,-25.049,2021-09,2021
+EMEA-2023-169551,2023-07-08,Irene Wright,France,Paris,EMEA,EU-WEST,Chevron,1017,Energy,SMB,Marketing Suite,BIYG9PY5L1,87.21,3,0.5,-45.3492,2023-07,2023
+EMEA-2020-155796,2020-11-11,Joanne Forsyth,France,Lyon,EMEA,EU-WEST,PepsiCo,1073,Consumer Products,Strategic,Marketing Suite,R5FX9K38K6,521.96,4,0.5,-250.5408,2020-11,2020
+EMEA-2023-115105,2023-02-07,Jan Vaughan,United Kingdom,London,EMEA,UKIR,Chevron,1017,Energy,SMB,Marketing Suite,ZRM7AM77M5,240.784,1,0.2,30.098,2023-02,2023
+EMEA-2022-163776,2022-07-20,Lucas Taylor,Ukraine,Donetsk,EMEA,EU-EAST,Coca-Cola,1021,Consumer Products,SMB,Marketing Suite,9Q8OKG69T7,504.9,5,0.0,126.225,2022-07,2022
+EMEA-2023-143378,2023-09-20,Sue Wilson,Belgium,Brussels,EMEA,EU-WEST,Walmart,1096,Retail,Strategic,Marketing Suite,YYOO97X9A3,72.588,2,0.7,-128.2388,2023-09,2023
+AMER-2020-131247,2020-03-30,William Robertson,United States,Los Angeles,AMER,NAMER,General Electric,1040,Finance,SMB,Marketing Suite,0NGG1060Q7,205.666,2,0.15,-12.098,2020-03,2020
+EMEA-2022-106600,2022-04-09,Sean Morrison,Finland,Helsinki,EMEA,NOR,News Corp.,1071,Misc,SMB,Marketing Suite,DLWLSHQY8X,354.9,5,0.0,88.725,2022-04,2022
+AMER-2020-111871,2020-03-18,Thomas Watson,United States,Los Angeles,AMER,NAMER,Home Depot,1047,Retail,Enterprise,Marketing Suite,OI99X15HKU,1198.33,10,0.15,70.49,2020-03,2020
+EMEA-2021-133445,2021-10-05,Caroline Burgess,Belgium,Brussels,EMEA,EU-WEST,J.P. Morgan Chase & Co.,1054,Finance,SMB,Marketing Suite,OJRFAF3EZT,66.294,1,0.7,-103.8606,2021-10,2021
+EMEA-2022-113425,2022-11-22,Warren McGrath,United Kingdom,London,EMEA,UKIR,Huawei,1086,Tech,Enterprise,Marketing Suite,HPK5SYUDUU,113.568,2,0.2,12.7764,2022-11,2022
+AMER-2022-127236,2022-03-30,Owen Ferguson,Mexico,Toluca,AMER,LATAM,Nissan Motor,1098,Transportation,SMB,Marketing Suite,EVZU94RKKD,299.975,5,0.5,-167.986,2022-03,2022
+EMEA-2023-125472,2023-05-31,Leonard Nash,Czech Republic,Prague,EMEA,EU-EAST,Berkshire Hathaway,1012,Finance,SMB,Marketing Suite,MB349WP800,241.96,2,0.0,33.8744,2023-05,2023
+EMEA-2020-149524,2020-01-15,Leah Clarkson,France,Paris,EMEA,EU-WEST,Morgan Stanley,1068,Finance,Strategic,Marketing Suite,J25TOFSQHP,61.96,4,0.5,-53.2856,2020-01,2020
+EMEA-2023-140872,2023-06-04,Amelia Lee,Germany,Dresden,EMEA,EU-WEST,Nestle,1089,Consumer Products,SMB,Marketing Suite,Z26RBROZR0,241.568,2,0.2,0.0,2023-06,2023
+EMEA-2022-113845,2022-11-21,Fiona Peters,Germany,Nuremberg,EMEA,EU-WEST,United Parcel Service,1090,Transportation,Strategic,Marketing Suite,4EPYGPBKM2,289.568,2,0.2,10.8588,2022-11,2022
+EMEA-2020-128209,2020-11-17,Michelle Langdon,United Kingdom,Manchester,EMEA,UKIR,Lukoil,1044,Energy,SMB,Marketing Suite,FEDTEE9EDA,4007.84,10,0.2,-50.098,2020-11,2020
+EMEA-2023-104731,2023-07-22,Joanne Blake,Spain,Madrid,EMEA,EU-WEST,PepsiCo,1073,Consumer Products,SMB,Marketing Suite,TWJF7RZKH9,302.94,3,0.0,69.6762,2023-07,2023
+AMER-2022-123512,2022-06-18,Molly Vance,United States,New York City,AMER,NAMER,Boeing,1014,Manufacturing,SMB,Marketing Suite,LVIGNMED9V,239.666,2,0.15,14.098,2022-06,2022
+EMEA-2023-167402,2023-01-14,Julian Langdon,Poland,Warsaw,EMEA,EU-WEST,BMW,1039,Manufacturing,Strategic,Marketing Suite,G4HUBIT36Y,212.94,3,0.0,53.235,2023-01,2023
+APJ-2022-147711,2022-09-04,Karen Vance,China,Beijing,APJ,APAC,Aviva,1006,Finance,SMB,Marketing Suite,H8IT6HYMGY,344.94,3,0.0,31.0446,2022-09,2022
+EMEA-2022-100461,2022-01-08,Keith Coleman,Italy,Rome,EMEA,EU,Exxon Mobil,1034,Energy,Strategic,Marketing Suite,2J00QTNI1W,1565.88,6,0.0,407.1288,2022-01,2022
+AMER-2023-115301,2023-07-30,Dominic Lawrence,Canada,Toronto,AMER,NAMER,ConocoPhillips,1024,Energy,SMB,Marketing Suite,W0ZICV4TS0,115.96,2,0.0,25.5112,2023-07,2023
+EMEA-2021-137925,2021-11-30,Luke Churchill,United Kingdom,London,EMEA,UKIR,Caterpillar,1016,Manufacturing,SMB,Marketing Suite,V7YIVP1NH4,681.408,12,0.2,42.588,2021-11,2021
+EMEA-2022-106243,2022-10-01,Una Mackay,United Kingdom,London,EMEA,UKIR,Intel,1051,Tech,SMB,Marketing Suite,F8I9ZWBODW,523.92,5,0.2,-26.196,2022-10,2022
+AMER-2023-141201,2023-12-10,Christian Kerr,United States,Jackson,AMER,NAMER,Volkswagen,1046,Manufacturing,Enterprise,Marketing Suite,MYM3UDQDMP,148.257,3,0.15,15.6978,2023-12,2023
+AMER-2023-166926,2023-12-02,Zoe Hodges,Canada,Toronto,AMER,NAMER,Royal Dutch Shell,1031,Energy,SMB,Marketing Suite,I46OLJUPOE,141.96,2,0.0,41.1684,2023-12,2023
+EMEA-2021-163965,2021-11-20,Victoria Poole,Germany,Hamburg,EMEA,EU-WEST,Comcast,1022,Communications,SMB,Marketing Suite,NSP3URCXRC,290.352,3,0.2,-36.294,2021-11,2021
+AMER-2020-127978,2020-03-03,Amelia Kelly,Mexico,Mexico City,AMER,LATAM,Anthem,1029,Healthcare,Strategic,Marketing Suite,XBGUQHUWA6,302.45,5,0.5,-199.617,2020-03,2020
+AMER-2022-123337,2022-09-17,William May,United States,Chicago,AMER,NAMER,AT&T,1010,Communications,Strategic,Marketing Suite,7WHVO0RXO3,273.666,2,0.15,-12.8784,2022-09,2022
+APJ-2020-163468,2020-11-18,Joanne Walsh,Australia,Adelaide,APJ,ANZ,Lowes,1060,Retail,SMB,Marketing Suite,N93W6KO0OE,424.116,6,0.3,-30.294,2020-11,2020
+EMEA-2021-113152,2021-12-25,Kimberly Harris,United Kingdom,London,EMEA,UKIR,Intel,1051,Tech,SMB,Marketing Suite,SOTH8EM1EE,449.568,2,0.2,56.196,2021-12,2021
+AMER-2021-100146,2021-05-14,Felicity King,United States,Las Vegas,AMER,NAMER,CVS Health,1026,Retail,Strategic,Marketing Suite,31NXVSHR65,509.9575,5,0.15,41.9965,2021-05,2021
+EMEA-2021-137974,2021-04-16,Carol Edmunds,Spain,Madrid,EMEA,EU-WEST,Aetna,1002,Healthcare,SMB,Marketing Suite,NITAMEGFVC,523.26,9,0.0,125.5824,2021-04,2021
+EMEA-2023-134642,2023-02-26,Connor Nolan,Sweden,Uppsala,EMEA,NOR,Allianz,1080,Finance,SMB,Marketing Suite,MWSF98H19J,231.92,5,0.2,5.798,2023-02,2023
+EMEA-2023-112347,2023-12-03,Leah Murray,Russia,Moscow,EMEA,EU-EAST,Bosch,1076,Tech,Strategic,Marketing Suite,DOG39AOZQC,242.352,8,0.7,-363.528,2023-12,2023
+EMEA-2020-114181,2020-05-10,Joe Davies,France,Paris,EMEA,EU-WEST,McKesson,1063,Consumer Products,SMB,Marketing Suite,WLGZ822XIV,349.965,7,0.5,-216.9783,2020-05,2020
+APJ-2022-104815,2022-09-04,Bella Powell,Australia,Sydney,APJ,ANZ,CVS Health,1026,Retail,SMB,Marketing Suite,6LEK2T3I1K,198.744,4,0.3,0.0,2022-09,2022
+AMER-2022-166660,2022-01-30,Warren Abraham,Canada,Toronto,AMER,NAMER,Aetna,1002,Healthcare,SMB,Marketing Suite,6DZ8BF2AAT,48.58,1,0.0,7.7728,2022-01,2022
+APJ-2023-104885,2023-03-03,Victoria Wilkins,Philippines,Quezon City,APJ,APAC,Valero Energy,1093,Energy,Strategic,Marketing Suite,676N263NZ1,441.96,2,0.0,101.6508,2023-03,2023
+APJ-2021-130974,2021-11-27,Amelia Campbell,South Korea,Incheon,APJ,APAC,Glencore,1083,Misc,Enterprise,Marketing Suite,8AEAXKK01W,170.98,1,0.0,32.4862,2021-11,2021
+EMEA-2020-133592,2020-12-31,Sue Parsons,Norway,Oslo,EMEA,NOR,Walt Disney,1097,Communications,Enterprise,Marketing Suite,A5KVN07JRV,341.96,2,0.0,78.6508,2020-12,2020
+AMER-2023-109316,2023-06-09,Lisa Oliver,United States,New York City,AMER,NAMER,Toyota Motor,1087,Manufacturing,Enterprise,Marketing Suite,EAQRZF5CT7,1497.666,2,0.15,140.9568,2023-06,2023
+AMER-2021-143364,2021-07-14,Connor Morrison,Chile,Antofagasta,AMER,LATAM,Humana,1049,Healthcare,SMB,Marketing Suite,0FJBUGHD6D,127.764,6,0.7,-191.646,2021-07,2021
+AMER-2022-149762,2022-12-04,Heather Dyer,United States,Tallahassee,AMER,NAMER,Goldman Sachs Group,1042,Finance,SMB,Marketing Suite,LBMHZRU44V,205.666,2,0.15,-12.098,2022-12,2022
+EMEA-2022-157707,2022-10-11,Warren Reid,Russia,Moscow,EMEA,EU-EAST,Wells Fargo,1099,Finance,Strategic,Marketing Suite,L2JQ34QKNV,90.882,3,0.7,-190.8522,2022-10,2022
+EMEA-2021-165743,2021-11-20,Alison Miller,Russia,St Petersburg,EMEA,EU-EAST,HSBC Holdings,1070,Finance,SMB,Marketing Suite,I1E24FEI5M,145.764,6,0.7,-247.7988,2021-11,2021
+AMER-2023-109393,2023-07-01,Max James,United States,New York City,AMER,NAMER,Mitsubishi,1050,Manufacturing,SMB,Marketing Suite,YR3L7FVHBH,435.999,3,0.15,5.1294,2023-07,2023
+AMER-2021-121188,2021-08-28,Kevin Vaughan,United States,New York City,AMER,NAMER,Tyson Foods,1088,Consumer Products,SMB,Marketing Suite,432L75JAS8,307.666,2,0.15,28.9568,2021-08,2021
+APJ-2023-159149,2023-02-18,Peter Johnston,Japan,Tokyo,APJ,JAPN,Wells Fargo,1099,Finance,Enterprise,Marketing Suite,2UHHXQWXSL,89.0664,1,0.32,-17.0274,2023-02,2023
+EMEA-2020-167997,2020-01-27,Carl Avery,Croatia,Zagreb,EMEA,EU-WEST,Siemens,1043,Manufacturing,Strategic,Marketing Suite,MKZA1ZJSAZ,141.96,2,0.0,39.7488,2020-01,2020
+AMER-2021-168207,2021-11-02,Ava Ellison,United States,Seattle,AMER,NAMER,Oracle,1072,Tech,SMB,Marketing Suite,TNHFZ7VPIJ,512.499,3,0.15,-30.147,2021-11,2021
+EMEA-2022-162355,2022-07-01,Sally Berry,Finland,Vantaa,EMEA,NOR,Tesco,1059,Retail,SMB,Marketing Suite,L8DA3X57R2,1266.86,7,0.0,291.3778,2022-07,2022
+AMER-2022-163972,2022-10-18,Pippa Chapman,United States,Philadelphia,AMER,NAMER,China National Petroleum,1023,Energy,Enterprise,Marketing Suite,FG827LCZME,120.666,2,0.15,21.294,2022-10,2022
+AMER-2023-150091,2023-10-13,Stewart Marshall,Argentina,Buenos Aires,AMER,LATAM,Daimler,1052,Transportation,SMB,Marketing Suite,I73GEXV25H,2154.9,5,0.0,129.294,2023-10,2023
+EMEA-2023-132031,2023-04-24,Max Marshall,South Africa,Johannesburg,EMEA,MEA,Boeing,1014,Manufacturing,Enterprise,Marketing Suite,ZKRESN3OFR,387.136,4,0.2,-14.5176,2023-04,2023
+EMEA-2020-151946,2020-06-04,Warren Butler,United Kingdom,London,EMEA,UKIR,Aviva,1006,Finance,SMB,Marketing Suite,B91IZ500TQ,353.568,2,0.2,-44.196,2020-06,2020
+EMEA-2022-107783,2022-07-29,Jonathan Thomson,France,Marseille,EMEA,EU-WEST,HSBC Holdings,1070,Finance,SMB,Marketing Suite,CHV8N5UCSS,177.45,5,0.5,-78.078,2022-07,2022
+EMEA-2023-159793,2023-08-26,Irene Walsh,France,Paris,EMEA,EU-WEST,Wells Fargo,1099,Finance,SMB,Marketing Suite,0IFWR220HK,130.98,2,0.5,-89.0664,2023-08,2023
+EMEA-2023-124765,2023-11-26,Felicity Sutherland,Germany,Stuttgart,EMEA,EU-WEST,Walmart,1096,Retail,SMB,Marketing Suite,9QCYEXN59K,723.92,5,0.2,-81.441,2023-11,2023
+AMER-2020-119144,2020-11-16,Faith Blake,United States,New York City,AMER,NAMER,Bank of America Corp.,1011,Finance,Strategic,Marketing Suite,LHMPMVFOAB,305.9745,3,0.15,25.1979,2020-11,2020
+AMER-2021-145422,2021-12-03,Kevin Brown,United States,Los Angeles,AMER,NAMER,Siemens,1043,Manufacturing,SMB,Marketing Suite,ATK5CS0Y1H,359.499,3,0.15,-29.6058,2021-12,2021
+EMEA-2021-103870,2021-12-27,Blake Campbell,South Africa,Johannesburg,EMEA,MEA,AT&T,1010,Communications,Strategic,Marketing Suite,N86IUIJ5WT,131.104,2,0.2,8.194,2021-12,2021
+EMEA-2023-135377,2023-12-14,Dominic Bell,United Kingdom,London,EMEA,UKIR,Mitsubishi,1050,Manufacturing,Strategic,Marketing Suite,WBII37JU9Q,287.976,3,0.2,7.1994,2023-12,2023
+APJ-2021-133585,2021-03-01,Stewart Vance,Japan,Tokyo,APJ,JAPN,Huawei,1086,Tech,Strategic,Marketing Suite,JEV26LMD3A,1227.9984,6,0.32,-36.1176,2021-03,2021
+EMEA-2023-126914,2023-06-16,Kimberly Manning,Sweden,Gothenburg,EMEA,NOR,AmerisourceBergen,1007,Healthcare,SMB,Marketing Suite,S6GOS1JMTW,77.728,2,0.2,-3.8864,2023-06,2023
+APJ-2022-140935,2022-11-11,Ryan Johnston,Singapore,Singapore,APJ,APAC,Allstate,1003,Finance,SMB,Marketing Suite,HHJTACE3LV,341.96,2,0.0,54.7136,2022-11,2022
+APJ-2020-120411,2020-09-20,Victor Lewis,Australia,Sydney,APJ,ANZ,BNP Paribas,1065,Finance,SMB,Marketing Suite,2TZ4Q98X1G,493.43,5,0.3,-70.49,2020-09,2020
+EMEA-2020-156790,2020-08-08,Dominic Lawrence,Germany,Berlin,EMEA,EU-WEST,ConocoPhillips,1024,Energy,SMB,Marketing Suite,7J0V41UW2W,155.456,4,0.2,-7.7728,2020-08,2020
+AMER-2023-159226,2023-04-26,Irene Wright,United States,New York City,AMER,NAMER,Chevron,1017,Energy,SMB,Marketing Suite,B50T187NTQ,344.981,7,0.15,28.4102,2023-04,2023
+AMER-2021-162950,2021-06-28,Austin Newman,Mexico,Mexico City,AMER,LATAM,Banco Santander,1101,Finance,Strategic,Marketing Suite,ES1O2KLK29,482.94,6,0.5,-376.6932,2021-06,2021
+AMER-2022-130911,2022-03-25,Joshua Glover,Mexico,Tijuana,AMER,LATAM,Sprint Nextel,1081,Communications,SMB,Marketing Suite,FW243AVZAF,301.47,3,0.5,-241.176,2022-03,2022
+EMEA-2022-160108,2022-12-09,Sue Anderson,Italy,Florence,EMEA,EU,BMW,1039,Manufacturing,SMB,Marketing Suite,1B1283EIH7,405.86,7,0.0,32.4688,2022-12,2022
+AMER-2022-152688,2022-10-18,Amelia Lee,Argentina,Córdoba,AMER,LATAM,Nestle,1089,Consumer Products,SMB,Marketing Suite,1GXCQZVUHQ,120.98,1,0.0,12.098,2022-10,2022
+EMEA-2021-164238,2021-08-16,Joan Ball,France,Paris,EMEA,EU-WEST,Enel,1013,Energy,SMB,Marketing Suite,YU3W47IJZC,301.47,3,0.5,-204.9996,2021-08,2021
+AMER-2020-113271,2020-07-09,Sam Carr,United States,Los Angeles,AMER,NAMER,Walmart,1096,Retail,Enterprise,Marketing Suite,ZNEHYDHN2P,119.833,1,0.15,7.049,2020-07,2020
+AMER-2022-166772,2022-09-21,Chloe White,Canada,Toronto,AMER,NAMER,Marathon Petroleum,1061,Energy,Enterprise,Marketing Suite,9OFUJ7PI8I,163.88,2,0.0,40.97,2022-09,2022
+AMER-2023-161340,2023-05-29,Kimberly North,Mexico,Tijuana,AMER,LATAM,Carrefour,1048,Retail,Strategic,Marketing Suite,QLX9RE42ZP,115.96,4,0.5,-64.9376,2023-05,2023
+EMEA-2023-110198,2023-05-02,Sue Anderson,Germany,Hanover,EMEA,EU-WEST,BMW,1039,Manufacturing,SMB,Marketing Suite,PK2S6VFI1M,314.352,3,0.2,-15.7176,2023-05,2023
+EMEA-2020-125997,2020-09-20,Blake Short,United Kingdom,London,EMEA,UKIR,Carrefour,1048,Retail,SMB,Marketing Suite,S0DL2BXTSD,801.568,2,0.2,-10.0196,2020-09,2020
+APJ-2022-164770,2022-12-03,Pippa Edmunds,Japan,Tokyo,APJ,JAPN,BNP Paribas,1065,Finance,Strategic,Marketing Suite,SHM8ULIB3T,781.864,10,0.32,-137.976,2022-12,2022
+APJ-2023-142461,2023-05-31,Leonard Parsons,Japan,Aichi,APJ,JAPN,Ford Motor,1009,Manufacturing,SMB,Marketing Suite,CR1NZOFODI,204.6664,1,0.32,-6.0196,2023-05,2023
+AMER-2022-148747,2022-09-26,Wendy Young,United States,Los Angeles,AMER,NAMER,Caterpillar,1016,Manufacturing,Strategic,Marketing Suite,FN4PQ0QHLZ,477.666,2,0.15,84.294,2022-09,2022
+APJ-2021-135251,2021-08-06,Justin Scott,Japan,Tokyo,APJ,JAPN,Nestle,1089,Consumer Products,Strategic,Marketing Suite,JTV2L9YCXN,369.1992,3,0.32,-114.0174,2021-08,2021
+EMEA-2023-116127,2023-06-26,Victor Lewis,United Kingdom,London,EMEA,UKIR,BNP Paribas,1065,Finance,SMB,Marketing Suite,AIF06KSW5M,400.784,1,0.2,-5.0098,2023-06,2023
+APJ-2023-137449,2023-06-30,Alan Hudson,Japan,Aichi,APJ,JAPN,Honda Motor,1045,Manufacturing,SMB,Marketing Suite,KBM8CNT2HB,409.9992,3,0.32,-96.4704,2023-06,2023
+AMER-2022-107104,2022-11-27,Leonard Springer,United States,New York City,AMER,NAMER,Tyson Foods,1088,Consumer Products,SMB,Marketing Suite,KMXL5J663R,3406.664,8,0.15,160.3136,2022-11,2022
+APJ-2021-130183,2021-11-13,Peter McLean,Japan,Tokyo,APJ,JAPN,Pfizer,1074,Healthcare,SMB,Marketing Suite,BYR1JKOEZV,613.9992,3,0.32,-18.0588,2021-11,2021
+EMEA-2021-117086,2021-11-08,Pippa Hunter,Egypt,Cairo,EMEA,MEA,Samsung Electronics,1015,Tech,Strategic,Marketing Suite,OO12JK36OM,4404.9,5,0.0,1013.127,2021-11,2021
+EMEA-2022-123533,2022-11-25,Angela Churchill,Germany,Hanover,EMEA,EU-WEST,Valero Energy,1093,Energy,Enterprise,Marketing Suite,OAFIREBUR5,339.92,5,0.2,8.498,2022-11,2022
+APJ-2023-144491,2023-03-28,Blake Fraser,Japan,Tokyo,APJ,JAPN,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite,0I7Q4V57MU,1023.332,5,0.32,-30.098,2023-03,2023
+AMER-2021-104948,2021-11-13,Kimberly Newman,United States,Anaheim,AMER,NAMER,Amazon,1004,Tech,SMB,Marketing Suite,3D56KMLTYI,683.332,4,0.15,-40.196,2021-11,2021
+APJ-2021-168088,2021-03-19,Harry Buckland,Japan,Tokyo,APJ,JAPN,News Corp.,1071,Misc,Enterprise,Marketing Suite,X3DQP9NR9A,383.4656,4,0.32,-67.6704,2021-03,2021
